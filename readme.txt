@@ -139,3 +139,13 @@ For more details on YouTube’s data collection, please refer to their Terms of 
 We take plugin security extremely seriously. If you discover a security vulnerability, please report it in a safe and responsible manner.
 
 You can report the issue through our [Bug Bounty Program](https://brainstormforce.com/bug-bounty-program/).
+##plugins utilises 
+Solid Security : Utilisé pour sécuriser le site, lancer des scans de vulnérabilités et protéger contre les attaques par force brute.
+
+Converter for Media : Utilisé pour l'optimisation des images et leur conversion au format WebP afin d'accélérer le chargement.
+
+WP Fastest Cache : Utilisé pour mettre en place un système de cache et améliorer les performances globales.
+
+Duplicator : Utilisé pour effectuer des sauvegardes complètes (fichiers et base de données) et programmer des backups hebdomadaires.
+
+Spectra : Utilisé pour ajouter des blocs avancés et des animations au design Gutenberg sans utiliser Elementor.
